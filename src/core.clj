@@ -8,6 +8,7 @@
 ;h-j-k-l to move
 ;gw then "aim" to jump to word
 ;<space>er to evaluate root form under cursor
+;<space>ef to evaluate entire file
 ;<space>lr to clear repl
 ;<space>lv to add vertically split repl pane
 ;gcc to toggle comments on a line
